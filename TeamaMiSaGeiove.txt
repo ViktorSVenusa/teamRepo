@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Noni
 Venusa
+=======
+Venusa
+Kalin
+>>>>>>> 78b40f4738affc2ef3ec8003b418f7555353cfd7
